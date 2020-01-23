@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="154.263px"
+	 height="165.39px" viewBox="0 0 154.263 165.39" enable-background="new 0 0 154.263 165.39" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="983.997" width="2816.138" y="-441.772" x="-391" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Capa_4" display="none">
+</g>
+<g id="Capa_1">
+</g>
+<g id="Capa_7" display="none">
+</g>
+<g id="Capa_3">
+</g>
+<g id="Capa_5">
+	<g>
+		<defs>
+			<rect id="SVGID_97_" x="-1333.536" y="-361.601" width="1280" height="600"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_97_"  overflow="visible"/>
+		</clipPath>
+	</g>
+</g>
+<g id="Capa_6">
+</g>
+<g id="Capa_2">
+</g>
+<g id="Capa_8">
+	<g>
+		<g>
+			<path fill="#0575A5" d="M10.897,5.79c-2.039,0-3.709,1.669-3.709,3.709v145.974c0,2.043,1.67,3.71,3.709,3.71h101.045
+				c2.037,0,3.709-1.667,3.709-3.71V9.499c0-2.04-1.672-3.709-3.709-3.709H10.897z"/>
+			<g>
+				<polygon fill="#FFFFFF" points="91.687,148.699 14.601,148.699 14.601,16.271 108.236,16.271 108.236,132.151 				"/>
+				<polygon fill="#CEE2F2" points="91.687,148.699 91.687,132.151 108.236,132.151 				"/>
+			</g>
+			<g>
+				<path fill="#5D6D7E" d="M69.439,8.034C69.439,3.601,65.852,0,61.42,0s-8.021,3.601-8.021,8.034H43.243v16.472h36.354V8.034
+					H69.439z M61.42,5.305c1.501,0,2.732,1.222,2.732,2.729c0,1.501-1.231,2.718-2.732,2.718c-1.51,0-2.729-1.217-2.729-2.718
+					C58.69,6.526,59.91,5.305,61.42,5.305z"/>
+				<path fill="#34495E" d="M69.439,8.034C69.439,3.601,65.852,0,61.42,0s-8.021,3.601-8.021,8.034H43.243v8.237h36.354V8.034
+					H69.439z M61.42,5.305c1.501,0,2.732,1.222,2.732,2.729c0,1.501-1.231,2.718-2.732,2.718c-1.51,0-2.729-1.217-2.729-2.718
+					C58.69,6.526,59.91,5.305,61.42,5.305z"/>
+				<rect x="43.243" y="14.551" fill="#5D6D7E" width="36.354" height="1.721"/>
+				<rect x="43.243" y="16.271" fill="#34495E" width="36.354" height="1.716"/>
+			</g>
+			<g>
+				<g>
+					<rect x="50.313" y="42.285" fill="#CEE2F2" width="43.62" height="3.42"/>
+					<rect x="50.313" y="60.168" fill="#CEE2F2" width="43.62" height="3.42"/>
+					<rect x="50.313" y="78.052" fill="#CEE2F2" width="43.62" height="3.42"/>
+					<rect x="50.313" y="95.931" fill="#CEE2F2" width="43.62" height="3.42"/>
+				</g>
+				<polygon fill="#FF8E31" points="28.903,39.576 30.247,38.234 35.025,43.013 42.706,35.336 44.054,36.68 35.025,45.705 				"/>
+				<polygon fill="#FF8E31" points="28.903,57.46 30.247,56.118 35.025,60.9 42.706,53.222 44.054,54.563 35.025,63.588 				"/>
+				<polygon fill="#FF8E31" points="28.903,75.343 30.247,74.001 35.025,78.788 42.706,71.105 44.054,72.451 35.025,81.474 				"/>
+				<polygon fill="#FF8E31" points="28.903,93.23 30.247,91.887 35.025,96.672 42.706,88.988 44.054,90.334 35.025,99.359 				"/>
+			</g>
+		</g>
+		<g>
+			<polygon fill="#FFFFFF" points="128.92,143.384 136.82,159.183 144.724,143.384 			"/>
+			<rect x="128.919" y="61.991" fill="#FF9D4D" width="15.804" height="81.393"/>
+			<rect x="128.919" y="61.991" fill="#F28124" width="3.952" height="81.393"/>
+			<rect x="140.771" y="61.992" fill="#F28124" width="3.951" height="81.391"/>
+			<polygon fill="#E1EFFA" points="128.92,143.384 132.872,143.384 136.82,159.183 			"/>
+			<polygon fill="#E1EFFA" points="144.724,143.384 140.772,143.382 136.82,159.183 			"/>
+			<polygon fill="#5D6D7E" points="133.727,152.992 136.82,159.183 139.919,152.996 			"/>
+			<g>
+				<g>
+					<polygon fill="#34495E" points="133.727,152.992 136.82,159.183 135.274,152.992 					"/>
+					<polygon fill="#34495E" points="138.371,152.992 136.82,159.183 139.919,152.996 					"/>
+				</g>
+			</g>
+			<rect x="128.919" y="59.355" fill="#FFFFFF" width="15.804" height="2.637"/>
+			<rect x="128.919" y="59.354" fill="#E1EFFA" width="3.95" height="2.637"/>
+			<rect x="140.771" y="59.355" fill="#E1EFFA" width="3.953" height="2.637"/>
+			<path fill="#34495E" d="M136.82,51.454c-4.36,0-7.9,3.539-7.9,7.9h15.804C144.724,54.993,141.185,51.454,136.82,51.454z"/>
+			<path fill="#34495E" d="M131.989,58.12c-0.192,0-0.384-0.045-0.563-0.137c-0.609-0.311-0.848-1.061-0.537-1.665
+				c1.15-2.236,3.422-3.629,5.931-3.629c0.684,0,1.237,0.554,1.237,1.237s-0.554,1.237-1.237,1.237c-1.575,0-3.009,0.873-3.73,2.282
+				C132.87,57.875,132.438,58.12,131.989,58.12z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,99 @@
+.btn {
+	transition: 0.25s;
+	transform: scale(1) !important;
+}
+.btn:hover {
+	transform: scale(1.15) !important; 
+}
+
+.btn1:hover {background-image:url(bt1_b.svg) !important;}
+.btn2:hover {background-image: url(bt2_b.svg) !important;}
+.btn3:hover {background-image: url(bt3_b.svg) !important;}
+.btn4:hover {background-image: url(bt4_b.svg) !important;}
+.btn5:hover {background-image: url(bt5_b.svg) !important;}
+.btn6:hover {background-image: url(bt6_b.svg) !important;}
+.btn7:hover {background-image: url(bt7_b.svg) !important;}
+.btn8:hover {background-image: url(bt8_b.svg) !important;}
+.btn9:hover {background-image: url(bt9_b.svg)  !important;}
+.btn10:hover {background-image: url(bt10_b.svg) !important;}
+
+.opc1:hover {background-image: url(opc1_b.svg)  !important;}
+.opc2:hover {background-image: url(opc2_b.svg)  !important;}
+.opc3:hover {background-image: url(opc3_b.svg)  !important;}
+.opc4:hover {background-image: url(opc4_b.svg)  !important;}
+.opc5:hover {background-image: url(opc5_b.svg)  !important;}
+.opc6:hover {background-image: url(opc6_b.svg)  !important;}
+.opc7:hover {background-image: url(opc7_b.svg)  !important;}
+.opc8:hover {background-image: url(opc8_b.svg)  !important;}
+.opc9:hover {background-image: url(opc9_b.svg)  !important;}
+.opc10:hover {background-image: url(opc10_b.svg)  !important;}
+.opc11:hover {background-image: url(opc11_b.svg)  !important;}
+.opc12:hover {background-image: url(opc12_b.svg)  !important;}
+.opc13:hover {background-image: url(opc13_b.svg)  !important;}
+.opc14:hover {background-image: url(opc14_b.svg)  !important;}
+.opci1:hover {background-image: url(opci1_b.svg)  !important;}
+.opci2:hover {background-image: url(opci2_b.svg)  !important;}
+
+.btn_inicio:hover {
+	background-image: url(bt_inicio_b.svg) !important;
+	transform: scale(1.1) !important;
+	-webkit-transform-: scale(1.1) !important;
+}
+
+.p1 {
+  background-image:url(bt1.svg);
+  -webkit-transform-: scale(1.3) !important;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+
+.rombo {
+     width: 100px; 
+     height: 100px; 
+     border: 3px solid #555; 
+     background: #428bca;
+     -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+     -moz-transform: rotate(45deg) skew(15deg, 15deg);
+     -ms-transform: rotate(45deg) skew(15deg, 15deg);
+     -o-transform: rotate(45deg) skew(15deg, 15deg);
+     transform: rotate(45deg) skew(15deg, 15deg);
+}
+
+.texto14 { font-size:24px
+ }
+
+/*Fuente*/
+@font-face {
+  font-family:'abel';
+  src: url('abel.ttf');
+  src: url('abel.eot?#iefix') format('embedded-opentype'), url('abel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+/*Viñeta*/
+ul { list-style-image:url(img_lista.png);}
+
+/*Tabla*/
+table {
+    border-collapse: collapse;
+	width: 100%;
+	background:#FFFFFF;
+}
+
+th, td {
+	border: 1px solid #E3E1E1;
+	padding: 5px 8px;
+}
+
+tr:nth-child(odd){background-color: #f2f2f2}
+
+th {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	background-color: #00BCA7;
+}
+
+td {text-align: left;}
